@@ -1,3 +1,18 @@
+/**
+ *
+ * Applications development for mobile devices
+ * -------------------------------------------
+ *
+ * This HelloWorld example implements an application that
+ * simply displays a button that updates the current date and time
+ * when pushed without using XML Layouts.
+ *
+ * @author Francisco Martinez
+ *
+ *
+ */
+
+
 package aplimovil.com.helloandroidj;
 
 import android.support.v7.app.AppCompatActivity;
